@@ -1,4 +1,4 @@
-# Learning OOPS from DSMP 2.0 by CampusX
+# Learning from DSMP 2.0 by CampusX
 
 I am learning Advanced Python, ML Algos from  Data Science Mentorship Program (DSMP) 2.0 by CampusX. This program offers a detailed curriculum covering Python, OOPS concepts, and practical data science skills.
 
